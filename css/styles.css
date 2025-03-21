@@ -27,8 +27,8 @@ section {
     min-height: 60vh; /* Para que las secciones tengan altura visible */
 }
 
-#bienvenida {
-    padding-top: 150px; /* Increased from 120px to 150px for more space */
+#bienvenida .container {
+    margin-top: 100px; /* Añadimos margin-top al container dentro de #bienvenida */
 }
 
 .placeholder {
