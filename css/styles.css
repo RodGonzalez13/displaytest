@@ -28,7 +28,7 @@ section {
 }
 
 #bienvenida {
-    padding-top: 120px; /* Reduje de 200px a 120px para un ajuste más natural */
+    padding-top: 150px; /* Increased from 120px to 150px for more space */
 }
 
 .placeholder {
