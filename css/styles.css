@@ -1,0 +1,60 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff;
+    color: #000;
+}
+
+.navbar {
+    background-color: #000 !important;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff !important;
+}
+
+.nav-link {
+    color: #fff !important;
+    font-size: 1.1rem;
+}
+
+.nav-link:hover {
+    color: #ff7f50 !important; /* Coral */
+}
+
+section {
+    min-height: 60vh; /* Para que las secciones tengan altura visible */
+}
+
+#bienvenida {
+    padding-top: 100px; /* Ajuste para evitar que la navbar tape el contenido */
+}
+
+.placeholder {
+    background-color: #f5f5f5;
+    padding: 2rem;
+    color: #666;
+    border: 1px dashed #ccc;
+    margin: 1rem auto;
+    max-width: 800px;
+}
+
+.btn-coral {
+    background-color: #ff7f50; /* Coral */
+    border-color: #ff7f50;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.75rem 1.5rem;
+}
+
+.btn-coral:hover {
+    background-color: #e66c3e;
+    border-color: #e66c3e;
+    color: #fff;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+}
